@@ -1,6 +1,6 @@
 # Bayesian_analysis
 
-n this project, I am going to estimate generalized linear models (GLMs) for binary (Bernoulli) and Binomial response variables using the stan_glm function in the rstanarm package.
+In this project, I am going to estimate generalized linear models (GLMs) for binary (Bernoulli) and Binomial response variables using the stan_glm function in the rstanarm package.
 
 The four steps of a Bayesian analysis are:
 
